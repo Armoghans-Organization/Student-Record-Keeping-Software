@@ -101,7 +101,7 @@
 
 - <a href="main.sql">Student Record Keeping System</a>
 - <a href="/Docs/Tables.sql">Tables</a>
-- <a href="url">Primary Keys</a>
-- <a href="url">Foreign Keys</a>
-- <a href="url">Values</a>
-- <a href="url">Views</a>
+- <a href="/Docs/Primary Keys.sql">Primary Keys</a>
+- <a href="/Docs/Foreign Keys.sql">Foreign Keys</a>
+- <a href="/Docs/Dumping Values.sql">Values</a>
+- <a href="/Docs/Creating View.sql">Views</a>
