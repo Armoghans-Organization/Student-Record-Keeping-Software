@@ -51,7 +51,7 @@
      |           |            |         |            |               |          |
 <br>
 
-    Teacher Table
+  Teacher Table
 
        | Teacher_ID | Teacher_Name | Student_Id |
        |------------|--------------|------------|
@@ -60,7 +60,7 @@
        |            |              |            |
 <br>
 
-    Course Table
+  Course Table
        | Course_ID | Course_Name | Teacher_ID | Student_Id |
        |-----------|-------------|------------|------------|
        |           |             |            |            |
@@ -68,7 +68,7 @@
        |           |             |            |            |
 <br>
 
-    Department Table
+  Department Table
 
        | Department_ID | Department_Name | Student_Id | Course_ID | Exam_ID |
        |---------------|-----------------|------------|-----------|---------|
@@ -77,7 +77,7 @@
 
 <br>
 
-    Exam Table
+  Exam Table
 
        | Exam_ID | Exam_Name | Course_ID | Student_Id | Marks |
        |---------|-----------|-----------|------------|-------|
@@ -87,7 +87,7 @@
 
 <br>
 
-    Fee Table
+  Fee Table
 
        |Challan_No | Student_Id | Student_Name | Tution_Fee |
        |-----------|------------|--------------|------------|
