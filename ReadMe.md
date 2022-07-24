@@ -1,4 +1,4 @@
-# Student Record Keeping Software 
+# <p align="center">Student Record Keeping Software </p>
   ### <p align="center"> *Department of Digital Forensics and Cyber Security, LGU* </p>
    ####  <p align="center"> **Under the Guidance of: Imran Khalid & Saud Farooq** </p>
 
