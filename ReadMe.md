@@ -61,7 +61,7 @@
 <br>
 
   Course Table
-  
+
        | Course_ID | Course_Name | Teacher_ID | Student_Id |
        |-----------|-------------|------------|------------|
        |           |             |            |            |
@@ -104,3 +104,6 @@
 - <a href="/Docs/Foreign Keys.sql">Foreign Keys</a>
 - <a href="/Docs/Dumping Values.sql">Values</a>
 - <a href="/Docs/Creating View.sql">Views</a>
+
+
+### **Normalization:**
