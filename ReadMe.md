@@ -100,7 +100,7 @@
   
 
 - <a href="main.sql">Student Record Keeping System</a>
-- <a href="/Docs/Tables..sql">Tables</a>
+- <a href="/Docs/Tables.sql">Tables</a>
 - <a href="url">Primary Keys</a>
 - <a href="url">Foreign Keys</a>
 - <a href="url">Values</a>
