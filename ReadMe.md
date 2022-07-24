@@ -61,6 +61,7 @@
 <br>
 
   Course Table
+  
        | Course_ID | Course_Name | Teacher_ID | Student_Id |
        |-----------|-------------|------------|------------|
        |           |             |            |            |
