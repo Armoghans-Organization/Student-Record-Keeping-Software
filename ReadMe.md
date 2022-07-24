@@ -33,22 +33,22 @@
 
 ### **Attributes:**
 
-    Admin Table
+  Admin Table
 
-    | Admin_Id | Student_Id   | Student_Name    | Student_Password  |
-    | -------- | ------------ |--------------   |-------------------|
-    |          |              |                 |                   |
-    |          |              |                 |                   |
-    |          |              |                 |                   |
- <br>
+     | Admin_Id | Student_Id   | Student_Name    | Student_Password  |
+     | -------- | ------------ |--------------   |-------------------|
+     |          |              |                 |                   |
+     |          |              |                 |                   |
+     |          |              |                 |                   |
+<br>
 
-    Student Table
+  Student Table
 
-    |Student_Id | Student_Id | Address | Contact_No | Department_ID | Course_ID|
-    |-----------|------------|---------|------------|---------------|----------|
-    |           |            |         |            |               |          | 
-    |           |            |         |            |               |          |
-    |           |            |         |            |               |          |
+     |Student_Id | Student_Id | Address | Contact_No | Department_ID | Course_ID|
+     |-----------|------------|---------|------------|---------------|----------|
+     |           |            |         |            |               |          | 
+     |           |            |         |            |               |          |
+     |           |            |         |            |               |          |
 <br>
 
     Teacher Table
@@ -97,8 +97,6 @@
 <br>
 
 ### **Code:**
-  
-
 - <a href="main.sql">Student Record Keeping System</a>
 - <a href="/Docs/Tables.sql">Tables</a>
 - <a href="/Docs/Primary Keys.sql">Primary Keys</a>
