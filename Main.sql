@@ -95,12 +95,12 @@ CREATE TABLE Exam (
 ________________________________________________________________________________
 
 -- Declaring Foreign Key For Admin Table
-   
+
     Alter TABLE Admin
 
     CONSTRAINT Fk_Student_ID FOREIGN KEY (Student_ID) 
     REFERENCES Student (Student_ID)
- 
+
     CONSTRAINT Fk_Student_Name FOREIGN KEY (Student_Name) 
     REFERENCES Student (Student_Name)
 ________________________________________________________________________________

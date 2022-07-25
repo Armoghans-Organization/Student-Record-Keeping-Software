@@ -13,7 +13,7 @@
 
 ### **Er Diagram:**
 <p align="center">
-  <img src="/Er-Diagram/Er Diagram (Dark).png"  title="Er Diagram(Dark)">
+  <img src="/Er-Diagram/Er-Diagram-Dark.png"  title="Er Diagram(Dark)">
 </p>
 
 ### **Tables:**
