@@ -1,4 +1,4 @@
-# <p align="center">Student Record Keeping Software </p>
+# Student Record Keeping Software 
   ### <p align="center"> *Department of Digital Forensics and Cyber Security, LGU* </p>
    ####  <p align="center"> **Under the Guidance of: Imran Khalid & Saud Farooq** </p>
 
@@ -44,7 +44,7 @@
 
   Student Table
 
-     |Student_Id | Student_Id | Address | Contact_No | Department_ID | Course_ID|
+     |Student_Id | Student_Name | Address | Contact_No | Department_ID | Course_ID|
      |-----------|------------|---------|------------|---------------|----------|
      |           |            |         |            |               |          | 
      |           |            |         |            |               |          |
@@ -71,10 +71,10 @@
 
   Department Table
 
-       | Department_ID | Department_Name | Student_Id | Course_ID | Exam_ID |
-       |---------------|-----------------|------------|-----------|---------|
-       |               |                 |            |           |         |
-       |               |                 |            |           |         |
+       | Department_ID | Department_Name | Course_ID  | Exam_ID   |
+       |---------------|-----------------|------------|-----------|
+       |               |                 |            |           |         
+       |               |                 |            |           |         
 
 <br>
 

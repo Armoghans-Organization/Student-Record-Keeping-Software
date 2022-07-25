@@ -42,9 +42,6 @@ ________________________________________________________________________________
     
     ALTER TABLE Department
 
-    CONSTRAINT Fk_Student_ID FOREIGN KEY (Student_ID) 
-    REFERENCES Student (Student_ID)
-
     CONSTRAINT Fk_Course_ID FOREIGN KEY (Course_ID) 
     REFERENCES Course (Course_ID)
 ________________________________________________________________________________
